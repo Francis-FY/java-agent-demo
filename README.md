@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/Francis-FY/java-agent-demo.svg?branch=master)](https://travis-ci.org/Francis-FY/java-agent-demo)
 # java-agent-demo
 A simple java agent demo project
 
