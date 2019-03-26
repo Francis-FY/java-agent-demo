@@ -1,0 +1,7 @@
+
+.gitignore
+.idea/
+generated/
+java-agent-demo.iml
+out/
+**/target
